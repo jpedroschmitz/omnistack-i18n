@@ -1,0 +1,7 @@
+{
+  "errors": {
+    "users": {
+      "allFieldsRequired": "Todos os campos são obrigatórios."
+    }
+  }
+}
